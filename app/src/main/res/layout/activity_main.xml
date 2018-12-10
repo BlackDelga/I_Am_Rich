@@ -22,7 +22,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="74dp"
         android:layout_marginBottom="79dp"
-        app:srcCompat="@drawable/diamond_image" />
+        app:srcCompat="@drawable/diamond_image"
+        android:contentDescription="@null" />
 
     <TextView
         android:layout_width="wrap_content"
